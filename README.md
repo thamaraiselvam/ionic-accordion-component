@@ -5,7 +5,7 @@
 ```
 <accordion>
   <accordion-header>Your Header Here</accordion-header>
-  <accordion-header>Your Content Here</accordion-header>
+  <accordion-body>Your Content Here</accordion-body>
 </accordion>
 ```
 
