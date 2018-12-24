@@ -1,0 +1,43 @@
+accordion {
+
+  .card-header{
+      background-color: map-get($colors, light);
+      color: #fff;
+      padding: 0px;
+  }
+  .card-content {
+      // padding: 0px 16px;
+      max-height: 0px;
+  }
+
+  ion-card-content.card-content.card-content-ios {
+    padding: 0px;
+  }
+
+  ion-card {
+    display: grid !important;
+    overflow: hidden;
+  }
+
+  ion-item.item.item-block.item-ios.item-ios-light {
+    border: none;
+  }
+
+  .header{
+    font-size: 14px;
+  }
+
+  ion-card.card.card-ios {
+    margin: 0px !important;
+    width: 100% !important;
+    margin-bottom: 10px !important;
+    border-radius: 5px;
+    border: 1px solid #eff0f7;
+    box-shadow: unset;
+  }
+
+  .ion-ios-arrow-up:before, .ion-ios-arrow-down:before{
+    color: #b8b9b9;
+  }
+
+}
