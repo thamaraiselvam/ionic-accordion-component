@@ -4,6 +4,7 @@
 
 ```<accordion>
 <accordion-header>Your Header Here</accordion-header>
-<accordion-header>Your Content Here</accordion-header>```
+<accordion-header>Your Content Here</accordion-header>
+```
 
 Simple and easy to use.
